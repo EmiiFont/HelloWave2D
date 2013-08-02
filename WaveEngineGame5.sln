@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveEngineGame5", "WaveEngineGame5\WaveEngineGame5\WaveEngineGame5.csproj", "{51151A05-B389-4AA2-95D9-285BAC0CAE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveEngineGame5Project", "WaveEngineGame5\WaveEngineGame5Project\WaveEngineGame5Project.csproj", "{7F33A32D-3079-488A-BDFE-452E0E68C52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51151A05-B389-4AA2-95D9-285BAC0CAE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51151A05-B389-4AA2-95D9-285BAC0CAE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51151A05-B389-4AA2-95D9-285BAC0CAE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51151A05-B389-4AA2-95D9-285BAC0CAE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F33A32D-3079-488A-BDFE-452E0E68C52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F33A32D-3079-488A-BDFE-452E0E68C52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F33A32D-3079-488A-BDFE-452E0E68C52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F33A32D-3079-488A-BDFE-452E0E68C52A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
